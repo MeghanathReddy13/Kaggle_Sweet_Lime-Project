@@ -1,9 +1,5 @@
 # Crop Health Advisor — AI Agents Capstone Project
 
-> **Status:** Early planning stage. This repo is scaffolded from a Google Meet
-> discussion (see `docs/original-idea-notes.md`) and will be fleshed out as the
-> team builds it out for the *AI Agents: Intensive Vibe Coding Capstone Project*.
-
 ## The Idea
 
 Build a **multi-agent system** that takes drone/field images of a crop
