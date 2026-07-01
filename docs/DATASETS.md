@@ -1,13 +1,5 @@
 # Dataset Research — Sweet Lime / Citrus Crop Health
 
-**Bottom line up front:** there is no public dataset that is specifically
-"sweet lime disease/health images." Researchers who have worked on sweet
-lime (*Citrus limetta*, aka mosambi/sathukudi) specifically had to build
-their own private datasets, even for something as simple as fruit weight
-estimation, because a benchmark public dataset for the exact species
-doesn't exist. So the practical path is: use the closest public citrus
-datasets as a proxy/starting point, and plan to supplement with real sweet
-lime images later (web-scraped or, eventually, actual field/drone photos).
 
 ## Best starting points
 
@@ -53,20 +45,6 @@ and worth reaching out to the authors about extending to citrus/sweet lime.
 - **Paper:** https://arxiv.org/abs/2502.08233
 - **Full text:** https://arxiv.org/html/2502.08233v1
 
-## Other references worth knowing about (lower priority)
-
-- **Fruits-360** (Kaggle, `moltean/fruits`) — 260-class fruit/veg image
-  dataset including a generic "Lime" class, but images are studio shots on
-  a rotating turntable — fine for basic recognition sanity checks, not for
-  orchard/disease work. https://www.kaggle.com/datasets/moltean/fruits
-- **digital-agriculture-datasets** (GitHub, `ricber`) — a curated index of
-  open agriculture/robotics datasets. No citrus entry yet as of writing,
-  but worth periodically re-checking as it's actively maintained.
-  https://github.com/ricber/digital-agriculture-datasets
-- Sweet-lime-specific machine learning work that does exist (Phate et al.)
-  focuses on **fruit weight/size grading for packaging**, not disease
-  detection, and used a **privately collected** dataset (~1,586 images from
-  Trichy, Tamil Nadu) that isn't publicly released.
 
 ## Recommendation for phase 1
 
