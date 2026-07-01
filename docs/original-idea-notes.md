@@ -39,8 +39,7 @@ seeing some root rot over here."*
 - **Start with one crop.** Candidates discussed: sweet lime / mosambi
   (చీనీ తోట), chilli (మిరప), cotton. Sweet lime was the crop leaning towards
   first, partly because it's what's accessible/relevant right now.
-- Since the team can't travel to India to take fresh photos themselves right
-  now, the plan is to **source images online** (public datasets, web images)
+- the plan is to **source images online** (public datasets, web images)
   to get the pipeline working, and swap in real field/drone data later.
 - Open question raised: does the image-processing output change meaningfully
   from crop to crop (sweet lime vs. chilli vs. cotton)? Assumption is yes,
