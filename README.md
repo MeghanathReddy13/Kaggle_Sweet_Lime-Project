@@ -17,10 +17,7 @@ Build a **multi-agent system** that takes drone/field images of a crop
 The system should also be able to look at soil images, not just leaves and
 fruit, and eventually generalize to other crops (chilli, cotton, etc.).
 
-## Why sweet lime first?
-
-The team can't physically travel to India to capture fresh field photos right
-now, so the plan is to start with **one crop** and pull together publicly
+-> so the plan is to start with **one crop** and pull together publicly
 available images/datasets, prove the pipeline works end-to-end, then swap in
 real drone footage later. See [`docs/DATASETS.md`](docs/DATASETS.md) for
 what's actually out there for sweet lime / citrus.
