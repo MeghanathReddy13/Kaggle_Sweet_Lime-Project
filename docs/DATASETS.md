@@ -9,7 +9,7 @@ citrus-genus-level, which is the closest broad match available.
 - **Diseases covered:** Black spot, Canker, Scab, Greening, Melanose, plus healthy
 - **Size:** 759 images across citrus leaves and fruit
 - **Sources:**
-  - Mendeley Data: https://data.mendeley.com/datasets/3f83gxmv57/2
+  - Mendeley Data: https://data.mendeley.com/datasets/3f83gxmv57/2  (We'll USE this one, it has images of fruit and leaves)
   - TensorFlow Datasets (`citrus_leaves`): https://www.tensorflow.org/datasets/catalog/citrus_leaves
   - Kaggle mirror: https://www.kaggle.com/datasets/myprojectdictionary/citrus-leaf-disease-image
   - Kaggle mirror: https://www.kaggle.com/datasets/jonathansilva2020/dataset-for-classification-of-citrus-diseases
