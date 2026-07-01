@@ -1,7 +1,7 @@
 # Original Idea — Notes from the Meeting
 
 Cleaned-up summary of the Google Meet discussion this project is based on.
-(Original transcript was a mix of Telugu and English.)
+
 
 ## Core concept
 
