@@ -1,0 +1,21 @@
+# Starter deps — trim/expand as the agents take shape
+
+# Core
+numpy
+pillow
+requests
+
+# Vision / ML (for the Image Processing Agent, if going the dedicated-model route)
+torch
+torchvision
+scikit-learn
+
+# LLM / agent orchestration
+anthropic
+python-dotenv
+
+# Data handling
+pandas
+
+# Notebooks (optional, useful for prototyping)
+jupyter
